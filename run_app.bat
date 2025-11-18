@@ -1,0 +1,3 @@
+@echo off
+echo Starting PDF Chat Assistant...
+streamlit run app.py
